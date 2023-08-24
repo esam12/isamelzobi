@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/elzobi7" target="blank"><img src="https://img.shields.io/twitter/follow/elzobi7?logo=twitter&style=for-the-badge" alt="elzobi7" /></a> </p>
 
-- 🔭 I’m currently working on **Human Resources(Odoo),Application**
+- 🔭 I’m currently working on **Mobile Application Developer**
 
 - 🌱 I’m currently learning **Advanced Flutter**
 
-- 💬 Ask me about **Android,Flutter,Vue**
+- 💬 Ask me about **Android,Flutter**
 
 - 📫 How to reach me **alzeabiesam@gmail.com**
 
