@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Developer** as Freelancer
 
-- 🌱 I’m currently learning **Advanced Flutter, ERP SYSTEM(Odoo)**
+- 🌱 I’m currently learning **Advanced Flutter, Cyber Security**
   
 - 💬 Ask me about **Android,Flutter**
 - 
