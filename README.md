@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Developer** as Freelancer 
 
-- 🌱 I’m currently learning **Advanced Flutter, Cyber Security**
+- 🌱 I’m currently learning **Advanced Flutter**
   
 - 💬 Ask me about **Android,Flutter**
 - 
