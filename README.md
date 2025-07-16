@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**
   
-- 💬 Ask me about **Android,Flutter**
+- 💬 Ask me about **Flutter**
 - 
 - 📫 How to reach me **alzeabiesam@gmail.com**
 
